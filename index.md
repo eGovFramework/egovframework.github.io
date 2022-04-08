@@ -7,5 +7,5 @@
 <br />
 * 첨부파일 :&nbsp;표준프레임워크_개발자_Git적용가이드.pdf<br />
 <br />
-<img alt="" src="/cmm/file/preview.do?fileId=FILE_000000000018492&amp;fileSn=1" style="width: 765px; height: 4944px;" /><br />
+<img alt="" src="https://www.egovframe.go.kr/cmm/file/preview.do?fileId=FILE_000000000018492&fileSn=1" style="width: 765px; height: 4944px;" /><br />
 &nbsp;
