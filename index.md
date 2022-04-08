@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/eGovFramework/egovframework.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eGovFramework/egovframework.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+전자정부 표준프레임워크에서 &#39;2022 전자정부 표준프레임워크 컨트리뷰션&#39;을 개최합니다.<br />
+기간은<strong> 3/28(월) ~ 7/31(일)까지</strong>이며, 아래의 홍보 및 오픈소스 기여 동영상과 첨부파일의 가이드를 참고하여<br />
+전자정부 표준프레임워크에 관심있으신 분들의 많은 참여를 부탁드립니다.<br />
+<br />
+▶ 전자정부 표준프레임워크에 오픈소스 기여하는 방법&nbsp;<u><a href="https://youtu.be/5QmO5LrYBM0">동영상 보기 (클릭)</a></u><br />
+▶ 전자정부 표준프레임워크 GitHub 주소&nbsp;<u><a href="https://github.com/egovframework">GitHub 저장소 바로가기 (클릭)</a></u><br />
+<br />
+* 첨부파일 :&nbsp;표준프레임워크_개발자_Git적용가이드.pdf<br />
+<br />
+<img alt="" src="/cmm/file/preview.do?fileId=FILE_000000000018492&amp;fileSn=1" style="width: 765px; height: 4944px;" /><br />
+&nbsp;
