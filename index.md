@@ -5,7 +5,7 @@
 ▶ 전자정부 표준프레임워크에 오픈소스 기여하는 방법&nbsp;<u><a href="https://youtu.be/5QmO5LrYBM0">동영상 보기 (클릭)</a></u><br />
 ▶ 전자정부 표준프레임워크 GitHub 주소&nbsp;<u><a href="https://github.com/egovframework">GitHub 저장소 바로가기 (클릭)</a></u><br />
 <br />
-* 첨부파일 :&nbsp;표준프레임워크_개발자_Git적용가이드.pdf<br />
+* 첨부파일 :&nbsp;<a href="https://www.egovframe.go.kr/cmm/file/readDownloadFile.do?fileId=cb0d1aa36b9e9a388e4cab71a33e482dc6c991b5197e389e12e75e2d0a80270d94c17bc05d14ecb7d4d789302f75169d34a1f2475060352a2aea1bc5ed229e1ad6f17428621217574a805626672860cf0e98f761ff40695b991fb64acbe0bbccd6c1c1984b48edee40398a184d297807c67ddfc02dbc1f74aab67fe260c6a717ade9010959b278a8cbb46bfb8d444e0c6467f83df421ddd96cc11695aa55dbfa&amp;fileSn=1">표준프레임워크_개발자_Git적용가이드.pdf</a><br />
 <br />
 <img alt="" src="https://www.egovframe.go.kr/cmm/file/preview.do?fileId=FILE_000000000018492&amp;fileSn=1" style="width: 765px; height: 4944px;" /><br />
 &nbsp;
